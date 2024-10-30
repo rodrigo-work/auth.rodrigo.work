@@ -1,5 +1,11 @@
 {
+  "name": "auth",
   "private": true,
+  "license": "MIT",
+  "author": {
+    "name": "Rodrigo Ribeiro",
+    "email": "me@rodrigo.work"
+  },
   "scripts": {
     "build": "turbo run build",
     "clean": "turbo run clean",
@@ -15,7 +21,6 @@
   },
   "packageManager": "pnpm@8.15.6",
   "engines": {
-    "node": ">=18"
-  },
-  "name": "kitchen-sink"
+    "node": ">=20.17.0"
+  }
 }
