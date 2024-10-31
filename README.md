@@ -1,3 +1,11 @@
+# Links:
+
+- [dashboards aws console](https://us-east-1.console.aws.amazon.com/amplify/home#/d1up3bkbyfzv3d?region=us-east-1)
+- [amplify console production](https://us-east-1.admin.amplifyapp.com/admin/login?appId=d1up3bkbyfzv3d&backendEnvironmentName=main)
+- [amplify console development](https://us-east-1.admin.amplifyapp.com/admin/login?appId=d1up3bkbyfzv3d&backendEnvironmentName=development)
+- [github repo](https://github.com/rodrigo-work/auth.rodrigo.work)
+- [github project](https://github.com/orgs/rodrigo-work/projects/16)
+
 ![Descrição da Imagem](/.github/SCREENSHOT.png)
 
 ### Documentação do Projeto: auth.rodrigo.work
